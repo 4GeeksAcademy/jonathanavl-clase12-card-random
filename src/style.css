@@ -1,1 +1,12 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.fondo-verde {
+  background-color: green;
+}
+.fondocarta {
+  background-color: white;
+}
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
